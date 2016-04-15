@@ -1,0 +1,31 @@
+@charset "utf-8";
+/*
+//author:hjb2722404
+//description:
+//date:2016/4/7
+*/
+
+body {
+    background-image: url("zjg-bg.jpg");
+    background-size: cover;
+}
+.search-box {
+    margin-top: 100px;
+}
+.orderlist{
+    background: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.title {
+    text-align: center;
+    font-family: "微软雅黑", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #111888;
+}
+
+.clear-fix {
+    width: 100%;
+    height: 0;
+    clear: both;
+}
